@@ -1,7 +1,7 @@
 # This Dockerfile is used to build a Kamihi project environment for functional testing purposes.
 
 # Use the Astral UV image with Python 3.12 and Debian Bookworm as the base image.
-FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim@sha256:e83b46efcc59101e7ec55c8b4d72616da4ffe4eacb13ed044b8ca2b40eb11cdd
+FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim@sha256:dc7e1d08f8ca979826ec0b68b31c783e0b35b568be6a078d4cbedf38c4cc085e
 
 # Install system dependencies required for Kamihi.
 RUN apt-get update && \
