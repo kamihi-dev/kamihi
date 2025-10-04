@@ -5,7 +5,7 @@
     <a href="https://app.deepsource.com/gh/kamihi-dev/kamihi/" target="_blank"><img alt="DeepSource" title="DeepSource" src="https://app.deepsource.com/gh/kamihi-dev/kamihi.svg/?label=code+coverage&show_trend=false&token=XJwx56oI7k7Bm23vhsstts9q"/></a>
 </div>
 
-> This project is currently in the early stages of development. Expect frequent changes and updates as we work towards a stable release. Your feedback and contributions are welcome!
+> This project has been moved to [kamihi-org/kamihi](https://github.com/kamihi-org/kamihi)
 
 ## Getting started
 
